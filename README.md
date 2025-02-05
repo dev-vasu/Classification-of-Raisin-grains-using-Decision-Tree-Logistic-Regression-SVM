@@ -51,5 +51,5 @@ After training and evaluating the models, results are compared based on accuracy
 
 
 ## Author
-Developed by [Vasudev Singh Jamwal].
+Developed by Vasudev Singh Jamwal.
 
